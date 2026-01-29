@@ -1,0 +1,11 @@
+# Compiled files
+*.class
+
+# VS Code
+.vscode/
+
+# Database credentials
+db.properties
+
+# Logs
+*.log
