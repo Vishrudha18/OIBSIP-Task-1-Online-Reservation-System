@@ -107,7 +107,7 @@ db.password=your_mysql_password
 ## ▶️ How to Run the Project
 
 ***Clone the repository***
-git clone https://github.com/your-username/OnlineReservationSystem.git
+git clone https://github.com/Vishrudha18/OIBSIP-Task-1-Online-Reservation-System.git
 
 ***Open the project in VS Code***
 
@@ -122,6 +122,14 @@ Main.java
 ## 🧪 Sample Login Credentials
 Username: admin
 Password: admin123
+
+---
+
+## Output
+
+<img width="1860" height="856" alt="Image" src="https://github.com/user-attachments/assets/20b1f89b-f222-4f55-9e21-bf111a04fdfe" />
+
+<img width="1854" height="845" alt="Image" src="https://github.com/user-attachments/assets/2a04e932-1ee8-47e0-baf5-2fc03709e5f8" />
 
 ---
 
